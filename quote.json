@@ -1,4 +1,5 @@
-{
+[
+    {
     "id": 1,
     "quote": "The only limit to our realization of tommorow is our doubts of today",
     "author": "Franklin D. Roosevelt"
@@ -22,4 +23,5 @@
     "id": 5,
     "quote": "One lie can end million trust",
     "author": "Sadboyz"
-},
+}
+]
