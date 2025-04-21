@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "email": "json007stamaria@gmail.com",
+    "phone": "09273437374",
+    "address" : {
+        "street": "2955 kakarong St",
+        "city": "Makati City",
+        "state": "NCR",
+        "zip": "12345"
+
+    },
+    "company": {
+        "name": "Tech Support",
+        "position": "Software Engineer",
+        "department": "Development"
+    }
+}
